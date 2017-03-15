@@ -3,7 +3,7 @@ setup database
 - create tables
 ```
 mysql < world_users.sql
-mysql < world_countries.sql
+mysql < world_country.sql
 ```
 to start app run command from console
 ```
